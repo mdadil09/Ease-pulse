@@ -1,0 +1,2 @@
+export const STRIPE_SECRET =
+  "pk_test_51MidJISCHPClyj69FM1gkGnEfnOatya40s9dl49uDVhZf4poMyKtEGugihAPgplhUDGNptneIkqs1LR4OQs59VmW00aPmRkISS";
